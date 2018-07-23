@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scanning App</string>
+    <string name="formatText">Format: </string>
+    <string name="contentText">Content: </string>
+    <string name="hello_sun">Hello sun!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="name_text">Enter a name...</string>
+    <string name="company_text">Enter company name...</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="netStat_message">Checking connection...</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
